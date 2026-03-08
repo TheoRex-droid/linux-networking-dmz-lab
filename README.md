@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates a segmented Linux network built in VirtualBox using MiniOS virtual machines. 
 
-The environment simulated an enterporse network architecture with LAN and DMZ connected through a Linux gateway router. 
+The environment simulated an enterprise network architecture with LAN and DMZ connected through a Linux gateway router. 
 
 ## Network Topology
 
